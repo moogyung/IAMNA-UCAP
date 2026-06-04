@@ -38,7 +38,8 @@ Universal Cognitive Alignment Protocol (UCAP): A 4-dimensional geometric framewo
 
 ## CHM 4축 파라미터 규격 · CHM 4-Axis Definition
 
-> 모든 축은 **00 ~ 99 스케일**, 50 = 중립 앵커  
+> 4축은 구조적 협의에 필요한 최소 인지 차원입니다. 인간 인지의 완전한 모델이 아닙니다.  
+> 모든 축은 **00~99 스케일**, 50 = 중립 앵커입니다.
 > All axes on **00–99 scale**, 50 = neutral anchor
 
 ### X축 · Space / Resolution — 공간 및 렌더링 해상도
