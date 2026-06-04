@@ -175,6 +175,8 @@ They were formulated from **human cognitive architecture** — specifically, how
 
 * **Symmetric Alignment:** X and Z axes showed robust statistical alignment across the text-image joint embedding space.
 * **Semantic Friction:** Y and W axes revealed an 'empirical object-priority bias' in current contrastive learning models. This is a crucial structural finding demonstrating how current AI models encode (or fail to encode) relational and compositional topology compared to human perception.
+* **Meta-cognitive Effect:** Early user testing revealed an unexpected outcome. Non-expert users, upon observing shifts in AI output, immediately recognized their own input patterns as the source — not the AI. UCAP appears to function as a mirror, prompting self-correction rather than AI correction.
+* **Robustness over Perfection:** UCAP does not aim for perfect interpretation. It operates as a sustained negotiation framework between user and AI — closer to a mutual agreement than a one-time instruction. This makes the system robust across ambiguity rather than brittle under it.
 
 The full theoretical basis will be released in the upcoming CHM document.
 
