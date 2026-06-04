@@ -35,6 +35,7 @@ Instead of describing the AI ("be helpful and concise"), UCAP describes **you** 
 
 ## CHM 4-Axis Definition
 
+> The 4 axes represent the minimum cognitive dimensions required for structural alignment — not a complete model of human cognition.  
 > All axes operate on a **00–99 scale**. 50 = neutral anchor.
 
 ### X-axis · Space / Resolution
