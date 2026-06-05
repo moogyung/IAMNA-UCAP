@@ -172,14 +172,10 @@ Example output:
 
 UCAP's 4 axes were not derived from AI behavior observation.
 
-They were formulated from **human cognitive architecture** — specifically, how humans filter and process input data — and subsequently projected onto contrastive learning embedding spaces (e.g., Jina v4, CLIP) for cross-validation.
+* **Human cognitive structure:** The axes were first defined from how humans filter and process input data, then projected onto contrastive learning embedding spaces.
+* **Robustness over perfection:** UCAP does not aim for perfect interpretation. It operates as a sustained negotiation framework between user and AI — not a one-time instruction. The goal is robustness that holds even under ambiguity.
 
-* **Symmetric Alignment:** X and Z axes showed robust statistical alignment across the text-image joint embedding space.
-* **Semantic Friction:** Y and W axes revealed an 'empirical object-priority bias' in current contrastive learning models. This is a crucial structural finding demonstrating how current AI models encode (or fail to encode) relational and compositional topology compared to human perception.
-* **Meta-cognitive Effect:** Early user testing revealed an unexpected outcome. Non-expert users, upon observing shifts in AI output, immediately recognized their own input patterns as the source — not the AI. UCAP appears to function as a mirror, prompting self-correction rather than AI correction.
-* **Robustness over Perfection:** UCAP does not aim for perfect interpretation. It operates as a sustained negotiation framework between user and AI — closer to a mutual agreement than a one-time instruction. This makes the system robust across ambiguity rather than brittle under it.
-
-The full theoretical basis will be released in the upcoming CHM document.
+The theoretical foundation will be published in the upcoming CHM document.
 
 ---
 
